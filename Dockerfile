@@ -1,1 +1,1 @@
-FROM gcr.io/google_samples/k8szk:v1
+FROM k8s.gcr.io/coredns:1.2.2
